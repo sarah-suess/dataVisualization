@@ -1,0 +1,83 @@
+body {
+	font: 12px sans-serif;
+}
+
+#legend {
+	font: 12px sans-serif;
+}
+
+.tick>line {
+	fill: none;
+	stroke: black;
+}
+
+.tick>text {
+	fill: black;
+}
+
+path.domain {
+	fill: none;
+	stroke-width: 2px;
+	stroke: black;
+}
+
+/* .non_brushed {
+	fill: gray !important;
+	opacity: 1;
+} */
+
+.non_brushed {
+    filter: grayscale(100%) !important;
+}
+
+.LowCalorie {
+	fill: #F34F4F;
+	opacity: 1;
+}
+
+.MedCalorie {
+	fill: #F27950;
+	opacity: 1;
+}
+
+.HighCalorie {
+	fill: #F2BF50;
+	opacity: 0.6;
+}
+
+#wrapper {
+	clear: both;
+}
+
+#chart1 {
+	float: left;
+}
+
+#chart2 {
+	float: left;
+}
+
+#chart3 {
+	float: left;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+.low-calorie { 
+    fill: red;
+	opacity: 1;
+}
+
+.medium-calorie { 
+    fill: orange;
+	opacity: 1;
+}
+
+.high-calorie { 
+    fill: yellow;
+	opacity: 0.6;
+}
+

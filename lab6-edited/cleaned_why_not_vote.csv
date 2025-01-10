@@ -1,0 +1,42 @@
+Characteristic,Category,Total_Not_Voting,Out_of_Town,Forgot_to_Vote,COVID_Concerns,Illness_or_Disability,Not_Interested,Too_Busy,Transportation_Problems,Dislike_Candidates,Registration_Problems,Bad_Weather,Polling_Place_Issues,Other_Reason,Unknown_Reason
+ Total,Total,12810,6.1,3.7,4.3,13,17.6,13.1,2.4,14.5,4.9,0.1,2.6,14.5,3.2
+18 to 24 years,Age,2017,8.8,5.7,2.3,4.5,19.2,18.4,3,11,4.9,0,2.5,15.7,4.0
+25 to 44 years,Age,5350,5.8,3.6,3.8,5.8,19.8,16.3,1.4,16.7,5.8,0,3.4,14.4,3.2
+45 to 64 years,Age,3364,6.3,3.2,4.1,15.8,16.7,11.7,3,15.3,4.6,0.1,2,14.3,3.0
+65 years and over,Age,2079,3.8,2.8,8.1,35.2,11.7,2.1,3.3,11.2,3.1,0.2,1.8,14,2.6
+Male,Sex,6375,7,3.5,3.4,9.7,20.1,14.2,2.2,14.6,5.2,0.1,2.6,14.5,2.9
+Female,Sex,6434,5.1,3.9,5.2,16.3,15.1,12.1,2.6,14.5,4.6,0.1,2.6,14.5,3.5
+White alone,Race and Hispanic Origin,9926,6.3,3.5,4.3,12.7,17.8,12.8,1.9,15.9,4.9,0.1,2.6,14.1,3.1
+White non-Hispanic alone,Race and Hispanic Origin,8056,6.4,3.3,4.3,13.2,17.6,12,2.1,16.1,4.7,0,2.4,14.5,3.4
+Black alone,Race and Hispanic Origin,1800,4.7,5,3.4,14,18.1,10.5,5.8,10.2,4.6,0,3.4,16,4.4
+Asian alone,Race and Hispanic Origin,441,8.5,0.5,9.3,12.8,11.9,24.8,0,6.1,9.1,0,1.1,15.4,0.4
+Hispanic (of any race),Race and Hispanic Origin,2096,6.9,4.1,4.5,10.2,17.9,16.7,1,15.8,5,0.2,3.1,12.9,1.7
+White alone or in combination,Race and Hispanic Origin,10261,6.3,3.6,4.2,12.7,17.8,13.2,1.8,15.7,4.8,0.1,2.6,14.1,3.1
+Black alone or in combination,Race and Hispanic Origin,1949,4.7,5.3,3.1,14.2,17.5,11.8,5.4,10.1,4.6,0,3.5,15.5,4.4
+Asian alone or in combination,Race and Hispanic Origin,515,8.6,3,9,10.9,13.3,22.7,0,6.4,7.8,0,1.1,16.8,0.3
+Less than high school graduate,Educational attainment,1503,4.5,3.7,5.5,24.1,16.3,10.9,5.8,5.9,3.1,0.3,2.5,14.4,2.9
+High school graduate,Educational attainment,5036,5.6,3.6,3.9,13.1,19,13.3,2.1,14,4.4,0,2.8,14.6,3.7
+Some College,Educational attainment,3901,6.4,4.5,4,10,17.6,14.2,2.5,16.9,5,0,2.2,14,2.6
+Bachelors Degree or more,Educational attainment,2371,7.5,2.6,5,10.7,15.6,12.4,0.6,17.2,6.9,0,2.9,15.1,3.3
+Native-born citizen,Nativity,11688,5.9,3.7,4,12.9,17.7,13.1,2.6,14.7,4.8,0,2.5,14.7,3.2
+Naturalized citizen,Nativity,1122,7.6,3.6,7.2,13.8,16.1,13.5,0.3,12.8,6.1,0.3,3.5,12.3,2.8
+Less than 1 year,Duration of residence,2283,8.1,4.3,2.1,6.3,17.1,13.3,3.2,16.2,9.4,0,2.3,15,2.7
+1 to 2 years,Duration of residence,2119,4.9,3.8,2.5,9.7,17.5,15.4,2,15.1,6.9,0.1,2.3,17.8,2.0
+3 years or longer,Duration of residence,8240,5.8,3.6,5.5,15.5,17.9,12.4,2.2,14.1,3.2,0.1,2.9,13.4,3.5
+"Don't know, refused",Duration of residence,167,6.8,0,0.6,24.2,10.9,14.6,5.1,8.2,0,0,0,17.6,11.9
+Northeast,Region,2177,5.2,3.4,6,14.1,16.3,9.3,1.8,16.9,4.8,0.1,3,14.6,4.5
+Midwest,Region,3049,5.2,3.2,4,13.9,17,15.2,1.8,15.3,3.9,0,2.1,15.1,3.2
+South,Region,5423,7.3,3.3,4.6,13.8,17.9,13.8,3.5,11.7,5.3,0,3.3,12.9,2.6
+West,Region,2160,5,5.9,2.3,8.6,19,12.4,0.9,18.3,5.3,0.3,1.1,17.4,3.4
+Total in families,Family income,8458,6.3,3.5,4.4,12.6,17.6,13.7,2.1,14.1,5,0,2.6,15,3.1
+"Under $10,000",Family income,302,6.5,5.2,2.9,15.9,9.9,12.6,6.2,8.6,2.8,0,6.6,21.5,1.3
+"$10,000 to $14,999",Family income,336,0.8,2.2,1.7,21,15.4,14.2,8.5,13.6,3.8,0,2.9,11,4.8
+"$15,000 to $19,999",Family income,224,2.9,1.1,3,13.7,25.5,4.7,1.8,9.8,4.9,0,3.8,24.1,4.7
+"$20,000 to $29,999",Family income,736,4,1.3,5.7,18.9,19.8,12.2,4,7.9,9.8,0,1.9,12.3,2.2
+"$30,000 to $39,999",Family income,736,6.4,4.6,6.8,16.1,17.3,12.4,1.4,13.3,2.1,0,2.4,14.7,2.5
+"$40,000 to $49,999",Family income,643,8.1,2.8,4.7,12,16.9,13.9,1.7,17.3,7.4,0,0.2,13.3,1.6
+"$50,000 to $74,999",Family income,1435,5.7,3.4,5.2,10.9,18.9,15.5,1.2,13.4,4.3,0,2.8,16,2.7
+"$75,000 to $99,999",Family income,964,8.6,3.8,3.4,7.2,19.8,14.4,0.8,19.7,4.9,0,3.1,11.6,2.6
+"$100,000 to $149,999",Family income,989,5.5,3.5,2.8,8.8,16.9,14.5,0.1,17.9,6.5,0,3.7,16.2,3.8
+"$150,000 and over",Family income,752,8.7,5.6,5.4,8.4,17.3,18.5,0.6,10.6,5.7,0,1.3,14.8,3.1
+Income not reported,Family income,1339,6.6,3.3,3.8,15.4,15.7,11,3.6,14.7,3.1,0.3,2.2,16,4.5
