@@ -1,0 +1,11 @@
+Name,Type 1,Type 2,HP,Attack,Defense,Speed
+Pikachu,Electric,,35,55,40,90
+Bulbasaur,Grass,Poison,45,49,49,45
+Charmander,Fire,,39,52,43,65
+Squirtle,Water,,44,48,65,43
+Jigglypuff,Fairy,,115,45,20,20
+Gengar,Ghost,Poison,60,65,60,110
+Onix,Rock,Ground,35,45,160,70
+Alakazam,Psychic,,55,50,45,120
+Machamp,Fighting,,90,130,80,55
+Dragonite,Dragon,Flying,91,134,95,80

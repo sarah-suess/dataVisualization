@@ -1,0 +1,27 @@
+circle {
+    fill: gray;
+}
+
+text {
+    text-anchor: middle;
+    font-size: 11px;
+    fill: gray;
+    font-family: Arial;
+}
+
+.letter circle {
+    fill: plum;
+}
+
+button {
+    background-color: #A0A0A0;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+}

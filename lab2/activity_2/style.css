@@ -1,0 +1,12 @@
+body {
+    font-family: "Open Sans";
+}
+
+#main {
+    margin: 10px 20px;
+}
+
+.highly-rated {
+    border: 2px solid gold;
+    background-color: #f9f9a3;
+}

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Positioning and Layout Examples</title>
+    <style>
+        
+        /* Flexbox Layout */
+        .flex-container {
+            /* add your css attributes and values here  */
+            height: 10vh;
+            background-color: #f0f0f0;
+            display: flex;
+        }
+        .flex-main {
+            /* add your css attributes and values here  */
+            background-color: #d4e157;
+            padding: 20px;
+            align-items: left;
+            width: 600px;
+        }
+        .flex-sidebar {
+            /* add your css attributes and values here  */
+            background-color: #ff5722;
+            padding: 20px;
+            width: 600px;
+        }
+
+        /* Relative Positioning */
+        .relative-container {
+            margin-top: 50px;
+            background-color: #f8bbd0;
+            padding: 20px;
+            width: 300px;
+            position: relative;
+            margin-bottom: 20px;
+        }
+        .relative-element {
+            /* add your css attributes and values here  */
+            top: 20px;
+            left: 30px;
+            background-color: #c6ff00;
+            padding: 20px;
+            position: relative;
+        }
+
+        /* Absolute Positioning */
+        .absolute-container {
+            position: relative;
+            height: 50px;
+            background-color: #b3e5fc;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .absolute-element {
+            /* add your css attributes and values here  */
+            background-color: #ffeb3b;
+            padding: 20px;
+            position: absolute;
+            left: 1000px;
+        }
+
+        /* Div Flows and Arrangement */
+        .flow-container {
+            width: 100%;
+            background-color: #e0e0e0;
+            padding: 20px;
+        }
+        .flow-block {
+            background-color: #ff5722;
+            padding: 20px;
+            margin: 10px 0;
+        }
+        .float-example {
+            float: right;
+            width: 200px;
+            background-color: #4caf50;
+            padding: 20px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    
+
+    <!-- Flexbox Layout -->
+    <div class="flex-container">
+        <div class="flex-main">Flex</div>
+        <div class="flex-sidebar">Flex</div>
+    </div>
+
+    <!-- Relative Positioning -->
+    <div class="relative-container">
+        <div class="relative-element">Relatively Positioned Element</div>
+    </div>
+
+    <!-- Absolute Positioning -->
+    <div class="absolute-container">
+        <div class="absolute-element">Absolutely Positioned Element</div>
+    </div>
+
+    
+</body>
+</html>

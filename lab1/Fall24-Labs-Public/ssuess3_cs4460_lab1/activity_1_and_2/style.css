@@ -1,0 +1,41 @@
+/* Basic styles for the body */
+body {
+    font-family: Times, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+/* Style for the table */
+table {
+    width: 40%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* students add this*/
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+/* students add this*/
+th {
+    background-color: gainsboro;
+    text-align: center;
+}
+
+/* students add this*/
+.left-align {
+    text-align: left;
+}
+
+/* students add this*/
+/* Specific alignment for number cells */
+.right-align {
+    text-align: right;
+}
+
+
+label {
+    margin-right: 10px;
+}
